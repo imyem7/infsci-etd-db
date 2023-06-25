@@ -1,7 +1,10 @@
 # etd_db|Abstract 
 **INFSCI 2710: Database Management Systems|Professor: Dr. Dmitriy Babichenko|Due: March 13, 2023** 
-**Title of the Project: Efficient ETD Submission Management System using Drupal and MySQL** 
+
+**Title of the Project: Efficient ETD Submission Management System using Drupal and MySQL**
+
 **Team members: Stephen Wludarski, Ye Mun** 
+
 **GitHub Repository: https://imyem7.github.io/infsci-etd-db/** 
 
 ### 1.	Description: 
